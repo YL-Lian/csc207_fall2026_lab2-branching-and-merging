@@ -15,15 +15,16 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
+- 1 special ingrdient
 
 ## Filling
 
-- 1 1/2 cups salted caramel sauce
+- 1 1/2 cups raspberry sauce
 - 1 cup chopped toasted pecans
 
 ## Frosting
 
-- 1 cup unsalted butter, softened
+- 1 cup salted butter, softened
 - 4 cups powdered sugar
 - 2 teaspoons vanilla extract
 - 1/2 cup unsweetened cocoa powder
